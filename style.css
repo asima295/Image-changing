@@ -1,0 +1,18 @@
+body {
+    margin-left: 450px;
+    margin-top: 100px;
+ }
+ button {
+   padding: 15px;
+  background-color: brown;
+   color: white;
+   border-radius: 20px;
+}
+button:hover {
+    background-color: grey;
+    color: white;
+}
+#a1{
+    margin-top: 90px;
+    margin-left: 180px;
+}
